@@ -1,12 +1,9 @@
-# Hiii.....this is my Java DSA Journey
+# Java DSA Journey (@adityamore-dev)
 
-This Repository contains my Data Sturctures And Algorithms Practices in Java...Questions Which i solved from Leetcode paltfrom..
+This repository contains my Data Structures and Algorithms practice in Java.
 
-#Solved Problems
+## Solved Problems
 
 ### Arrays
-
-1. Two Sum ( LeetCode #1)
-
-
+1. Two Sum (LeetCode #1)
 
